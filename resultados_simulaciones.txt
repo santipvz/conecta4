@@ -1,0 +1,757 @@
+PROFUNDIDAD 1
+
+Simulacion Evaluador personalizado SIN ajuste automático vs Evaluador aleatorio
+
+Resultados de la simulación:
+
+Victorias Evaluador 1: 632
+Victorias Evaluador 2: 368
+Empates: 0
+
+Tiempo medio Evaluador 1: 38 ms
+Número medio de nodos expandidos Evaluador 1: 19
+Número de movimientos medio Evaluador 1: 4
+
+Tiempo medio Evaluador 2: 36 ms
+Número medio de nodos expandidos Evaluador 2: 15
+Número de movimientos medio Evaluador 2: 4
+
+Simulacion Evaluador personalizado SIN ajuste automático vs Evaluador personalizado CON ajuste automático
+
+Resultados de la simulación:
+
+Victorias Evaluador 1: 487
+Victorias Evaluador 2: 513
+Empates: 0
+
+Tiempo medio Evaluador 1: 20 ms
+Número medio de nodos expandidos Evaluador 1: 30
+Número de movimientos medio Evaluador 1: 11
+
+Tiempo medio Evaluador 2: 118 ms
+Número medio de nodos expandidos Evaluador 2: 31
+Número de movimientos medio Evaluador 2: 11
+
+Simulacion Evaluador personalizado CON ajuste automático vs Evaluador aleatorio
+
+Resultados de la simulación:
+
+Victorias Evaluador 1: 595
+Victorias Evaluador 2: 405
+Empates: 0
+
+Tiempo medio Evaluador 1: 8 ms
+Número medio de nodos expandidos Evaluador 1: 18
+Número de movimientos medio Evaluador 1: 4
+
+Tiempo medio Evaluador 2: 6 ms
+Número medio de nodos expandidos Evaluador 2: 16
+Número de movimientos medio Evaluador 2: 4
+
+Tiempo TOTAL: 36884 ms
+
+------------------------------------------------------------------------------------
+
+PROFUNDIDAD 2
+
+
+Simulacion Evaluador personalizado SIN ajuste automático vs Evaluador aleatorio
+
+Resultados de la simulación:
+
+Victorias Evaluador 1: 528
+Victorias Evaluador 2: 437
+Empates: 35
+
+Tiempo medio Evaluador 1: 328 ms
+Número medio de nodos expandidos Evaluador 1: 341
+Número de movimientos medio Evaluador 1: 12
+
+Tiempo medio Evaluador 2: 132 ms
+Número medio de nodos expandidos Evaluador 2: 238
+Número de movimientos medio Evaluador 2: 12
+
+Simulacion Evaluador personalizado SIN ajuste automático vs Evaluador personalizado CON ajuste automático
+
+Resultados de la simulación:
+
+Victorias Evaluador 1: 462
+Victorias Evaluador 2: 538
+Empates: 0
+
+Tiempo medio Evaluador 1: 128 ms
+Número medio de nodos expandidos Evaluador 1: 232
+Número de movimientos medio Evaluador 1: 16
+
+Tiempo medio Evaluador 2: 165 ms
+Número medio de nodos expandidos Evaluador 2: 270
+Número de movimientos medio Evaluador 2: 16
+
+Simulacion Evaluador personalizado CON ajuste automático vs Evaluador aleatorio
+
+Resultados de la simulación:
+
+Victorias Evaluador 1: 508
+Victorias Evaluador 2: 450
+Empates: 42
+
+Tiempo medio Evaluador 1: 326 ms
+Número medio de nodos expandidos Evaluador 1: 331
+Número de movimientos medio Evaluador 1: 13
+
+Tiempo medio Evaluador 2: 110 ms
+Número medio de nodos expandidos Evaluador 2: 258
+Número de movimientos medio Evaluador 2: 13
+
+Tiempo TOTAL: 39291 ms
+
+------------------------------------------------------------------------------------
+
+PROFUNDIDAD 3
+
+Simulacion Evaluador personalizado SIN ajuste automático vs Evaluador aleatorio
+
+Resultados de la simulación:
+
+Victorias Evaluador 1: 405
+Victorias Evaluador 2: 575
+Empates: 20
+
+Tiempo medio Evaluador 1: 911 ms
+Número medio de nodos expandidos Evaluador 1: 980
+Número de movimientos medio Evaluador 1: 11
+
+Tiempo medio Evaluador 2: 914 ms
+Número medio de nodos expandidos Evaluador 2: 1189
+Número de movimientos medio Evaluador 2: 11
+
+Simulacion Evaluador personalizado SIN ajuste automático vs Evaluador personalizado CON ajuste automático
+
+Resultados de la simulación:
+
+Victorias Evaluador 1: 486
+Victorias Evaluador 2: 514
+Empates: 0
+
+Tiempo medio Evaluador 1: 611 ms
+Número medio de nodos expandidos Evaluador 1: 937
+Número de movimientos medio Evaluador 1: 11
+
+Tiempo medio Evaluador 2: 928 ms
+Número medio de nodos expandidos Evaluador 2: 990
+Número de movimientos medio Evaluador 2: 11
+
+Simulacion Evaluador personalizado CON ajuste automático vs Evaluador aleatorio
+
+Resultados de la simulación:
+
+Victorias Evaluador 1: 400
+Victorias Evaluador 2: 574
+Empates: 26
+
+Tiempo medio Evaluador 1: 1019 ms
+Número medio de nodos expandidos Evaluador 1: 992
+Número de movimientos medio Evaluador 1: 11
+
+Tiempo medio Evaluador 2: 846 ms
+Número medio de nodos expandidos Evaluador 2: 1138
+Número de movimientos medio Evaluador 2: 11
+
+Tiempo TOTAL: 46843 ms
+
+------------------------------------------------------------------------------------
+
+PROFUNDIDAD 4
+
+Simulacion Evaluador personalizado SIN ajuste automático vs Evaluador aleatorio
+
+Resultados de la simulación:
+
+Victorias Evaluador 1: 494
+Victorias Evaluador 2: 380
+Empates: 126
+
+Tiempo medio Evaluador 1: 4 ms
+Número medio de nodos expandidos Evaluador 1: 5297
+Número de movimientos medio Evaluador 1: 16
+
+Tiempo medio Evaluador 2: 5 ms
+Número medio de nodos expandidos Evaluador 2: 7998
+Número de movimientos medio Evaluador 2: 16
+
+Simulacion Evaluador personalizado SIN ajuste automático vs Evaluador personalizado CON ajuste automático
+
+Resultados de la simulación:
+
+Victorias Evaluador 1: 519
+Victorias Evaluador 2: 481
+Empates: 0
+
+Tiempo medio Evaluador 1: 2 ms
+Número medio de nodos expandidos Evaluador 1: 3526
+Número de movimientos medio Evaluador 1: 21
+
+Tiempo medio Evaluador 2: 2 ms
+Número medio de nodos expandidos Evaluador 2: 3267
+Número de movimientos medio Evaluador 2: 21
+
+Simulacion Evaluador personalizado CON ajuste automático vs Evaluador aleatorio
+
+Resultados de la simulación:
+
+Victorias Evaluador 1: 508
+Victorias Evaluador 2: 381
+Empates: 111
+
+Tiempo medio Evaluador 1: 4 ms
+Número medio de nodos expandidos Evaluador 1: 5292
+Número de movimientos medio Evaluador 1: 16
+
+Tiempo medio Evaluador 2: 6 ms
+Número medio de nodos expandidos Evaluador 2: 7793
+Número de movimientos medio Evaluador 2: 16
+
+Tiempo TOTAL: 83381 ms
+
+------------------------------------------------------------------------------------
+
+PROFUNDIDAD 5
+
+Simulacion Evaluador personalizado SIN ajuste automático vs Evaluador aleatorio
+
+Resultados de la simulación:
+
+Victorias Evaluador 1: 395
+Victorias Evaluador 2: 551
+Empates: 54
+
+Tiempo medio Evaluador 1: 12475 ms
+Número medio de nodos expandidos Evaluador 1: 13162
+Número de movimientos medio Evaluador 1: 14
+
+Tiempo medio Evaluador 2: 23533 ms
+Número medio de nodos expandidos Evaluador 2: 33241
+Número de movimientos medio Evaluador 2: 15
+
+Simulacion Evaluador personalizado SIN ajuste automático vs Evaluador personalizado CON ajuste automático
+
+Resultados de la simulación:
+
+Victorias Evaluador 1: 506
+Victorias Evaluador 2: 494
+Empates: 0
+
+Tiempo medio Evaluador 1: 13647 ms
+Número medio de nodos expandidos Evaluador 1: 15972
+Número de movimientos medio Evaluador 1: 17
+
+Tiempo medio Evaluador 2: 13930 ms
+Número medio de nodos expandidos Evaluador 2: 15594
+Número de movimientos medio Evaluador 2: 17
+
+Simulacion Evaluador personalizado CON ajuste automático vs Evaluador aleatorio
+
+Resultados de la simulación:
+
+Victorias Evaluador 1: 407
+Victorias Evaluador 2: 542
+Empates: 51
+
+Tiempo medio Evaluador 1: 11920 ms
+Número medio de nodos expandidos Evaluador 1: 13366
+Número de movimientos medio Evaluador 1: 14
+
+Tiempo medio Evaluador 2: 23102 ms
+Número medio de nodos expandidos Evaluador 2: 32941
+Número de movimientos medio Evaluador 2: 14
+
+Tiempo TOTAL: 221075 ms
+
+------------------------------------------------------------------------------------
+
+PROFUNDIDAD 6
+
+Simulacion Evaluador personalizado SIN ajuste automático vs Evaluador aleatorio
+
+Resultados de la simulación:
+
+Victorias Evaluador 1: 365
+Victorias Evaluador 2: 522
+Empates: 113
+
+Tiempo medio Evaluador 1: 47765 ms
+Número medio de nodos expandidos Evaluador 1: 51290
+Número de movimientos medio Evaluador 1: 16
+
+Tiempo medio Evaluador 2: 124884 ms
+Número medio de nodos expandidos Evaluador 2: 172233
+Número de movimientos medio Evaluador 2: 17
+
+Simulacion Evaluador personalizado SIN ajuste automático vs Evaluador personalizado CON ajuste automático
+
+Resultados de la simulación:
+
+Victorias Evaluador 1: 474
+Victorias Evaluador 2: 526
+Empates: 0
+
+Tiempo medio Evaluador 1: 38781 ms
+Número medio de nodos expandidos Evaluador 1: 44184
+Número de movimientos medio Evaluador 1: 19
+
+Tiempo medio Evaluador 2: 43155 ms
+Número medio de nodos expandidos Evaluador 2: 49032
+Número de movimientos medio Evaluador 2: 19
+
+Simulacion Evaluador personalizado CON ajuste automático vs Evaluador aleatorio
+
+Resultados de la simulación:
+
+Victorias Evaluador 1: 402
+Victorias Evaluador 2: 518
+Empates: 80
+
+Tiempo medio Evaluador 1: 44396 ms
+Número medio de nodos expandidos Evaluador 1: 50230
+Número de movimientos medio Evaluador 1: 16
+
+Tiempo medio Evaluador 2: 117050 ms
+Número medio de nodos expandidos Evaluador 2: 162627
+Número de movimientos medio Evaluador 2: 16
+
+Tiempo TOTAL: 778334 ms
+
+------------------------------------------------------------------------------------
+
+PROFUNDIDAD 7
+
+Simulacion Evaluador personalizado SIN ajuste automático vs Evaluador aleatorio
+
+Resultados de la simulación:
+
+Victorias Evaluador 1: 210
+Victorias Evaluador 2: 747
+Empates: 43
+
+Tiempo medio Evaluador 1: 70520 ms
+Número medio de nodos expandidos Evaluador 1: 78003
+Número de movimientos medio Evaluador 1: 14
+
+Tiempo medio Evaluador 2: 444869 ms
+Número medio de nodos expandidos Evaluador 2: 615757
+Número de movimientos medio Evaluador 2: 15
+
+automático
+
+Resultados de la simulación:
+
+Victorias Evaluador 1: 479
+Victorias Evaluador 2: 521
+Empates: 0
+
+Tiempo medio Evaluador 1: 112056 ms
+Número medio de nodos expandidos Evaluador 1: 125871
+Número de movimientos medio Evaluador 1: 19
+
+Tiempo medio Evaluador 2: 123960 ms
+Número medio de nodos expandidos Evaluador 2: 136907
+Número de movimientos medio Evaluador 2: 19
+
+Simulacion Evaluador personalizado CON ajuste automático vs Evaluador aleatorio
+
+Resultados de la simulación:
+
+Victorias Evaluador 1: 209
+Victorias Evaluador 2: 753
+Empates: 38
+
+Tiempo medio Evaluador 1: 68659 ms
+Número medio de nodos expandidos Evaluador 1: 75129
+Número de movimientos medio Evaluador 1: 14
+
+Tiempo medio Evaluador 2: 443281 ms
+Número medio de nodos expandidos Evaluador 2: 602289
+Número de movimientos medio Evaluador 2: 14
+
+Tiempo TOTAL: 2112834 ms
+
+
+
+
+
+MINIMAX
+
+
+PROFUNDIDAD 1
+
+Simulacion Evaluador personalizado SIN ajuste automático vs Evaluador aleatorio
+
+Resultados de la simulación:
+
+Victorias Evaluador 1: 641
+Victorias Evaluador 2: 359
+Empates: 0
+
+Tiempo medio Evaluador 1: 29 ms
+Número medio de nodos expandidos Evaluador 1: 19
+Número de movimientos medio Evaluador 1: 4
+
+Tiempo medio Evaluador 2: 27 ms
+Número medio de nodos expandidos Evaluador 2: 14
+Número de movimientos medio Evaluador 2: 4
+
+Simulacion Evaluador personalizado SIN ajuste automático vs Evaluador personalizado CON ajuste automático
+
+Resultados de la simulación:
+
+Victorias Evaluador 1: 498
+Victorias Evaluador 2: 502
+Empates: 0
+
+Tiempo medio Evaluador 1: 19 ms
+Número medio de nodos expandidos Evaluador 1: 30
+Número de movimientos medio Evaluador 1: 11
+
+Tiempo medio Evaluador 2: 29 ms
+Número medio de nodos expandidos Evaluador 2: 31
+Número de movimientos medio Evaluador 2: 11
+
+Simulacion Evaluador personalizado CON ajuste automático vs Evaluador aleatorio
+
+Resultados de la simulación:
+
+Victorias Evaluador 1: 607
+Victorias Evaluador 2: 393
+Empates: 0
+
+Tiempo medio Evaluador 1: 7 ms
+Número medio de nodos expandidos Evaluador 1: 18
+Número de movimientos medio Evaluador 1: 4
+
+Tiempo medio Evaluador 2: 6 ms
+Número medio de nodos expandidos Evaluador 2: 16
+Número de movimientos medio Evaluador 2: 4
+
+Tiempo TOTAL: 37974 ms
+
+------------------------------------------------------------------------------------
+
+PROFUNDIDAD 2
+
+Simulacion Evaluador personalizado SIN ajuste automático vs Evaluador aleatorio
+
+Resultados de la simulación:
+
+Victorias Evaluador 1: 500
+Victorias Evaluador 2: 469
+Empates: 31
+
+Tiempo medio Evaluador 1: 356 ms
+Número medio de nodos expandidos Evaluador 1: 321
+Número de movimientos medio Evaluador 1: 12
+
+Tiempo medio Evaluador 2: 185 ms
+Número medio de nodos expandidos Evaluador 2: 254
+Número de movimientos medio Evaluador 2: 12
+
+Simulacion Evaluador personalizado SIN ajuste automático vs Evaluador personalizado CON ajuste automático
+
+Resultados de la simulación:
+
+Victorias Evaluador 1: 504
+Victorias Evaluador 2: 496
+Empates: 0
+
+Tiempo medio Evaluador 1: 167 ms
+Número medio de nodos expandidos Evaluador 1: 253
+Número de movimientos medio Evaluador 1: 16
+
+Tiempo medio Evaluador 2: 162 ms
+Número medio de nodos expandidos Evaluador 2: 250
+Número de movimientos medio Evaluador 2: 16
+
+Simulacion Evaluador personalizado CON ajuste automático vs Evaluador aleatorio
+
+Resultados de la simulación:
+
+Victorias Evaluador 1: 515
+Victorias Evaluador 2: 459
+Empates: 26
+
+Tiempo medio Evaluador 1: 304 ms
+Número medio de nodos expandidos Evaluador 1: 346
+Número de movimientos medio Evaluador 1: 12
+
+Tiempo medio Evaluador 2: 240 ms
+Número medio de nodos expandidos Evaluador 2: 243
+Número de movimientos medio Evaluador 2: 12
+
+Tiempo TOTAL: 39970 ms
+
+------------------------------------------------------------------------------------
+
+PROFUNDIDAD 3
+
+Simulacion Evaluador personalizado SIN ajuste automático vs Evaluador aleatorio
+
+Resultados de la simulación:
+
+Victorias Evaluador 1: 387
+Victorias Evaluador 2: 588
+Empates: 25
+
+Tiempo medio Evaluador 1: 996 ms
+Número medio de nodos expandidos Evaluador 1: 951
+Número de movimientos medio Evaluador 1: 11
+
+Tiempo medio Evaluador 2: 768 ms
+Número medio de nodos expandidos Evaluador 2: 1185
+Número de movimientos medio Evaluador 2: 11
+
+Simulacion Evaluador personalizado SIN ajuste automático vs Evaluador personalizado CON ajuste automático
+
+Resultados de la simulación:
+
+Victorias Evaluador 1: 501
+Victorias Evaluador 2: 499
+Empates: 0
+
+Tiempo medio Evaluador 1: 646 ms
+Número medio de nodos expandidos Evaluador 1: 965
+Número de movimientos medio Evaluador 1: 11
+
+Tiempo medio Evaluador 2: 854 ms
+Número medio de nodos expandidos Evaluador 2: 1400
+Número de movimientos medio Evaluador 2: 11
+
+Simulacion Evaluador personalizado CON ajuste automático vs Evaluador aleatorio
+
+Resultados de la simulación:
+
+Victorias Evaluador 1: 415
+Victorias Evaluador 2: 564
+Empates: 21
+
+Tiempo medio Evaluador 1: 1633 ms
+Número medio de nodos expandidos Evaluador 1: 1809
+Número de movimientos medio Evaluador 1: 11
+
+Tiempo medio Evaluador 2: 596 ms
+Número medio de nodos expandidos Evaluador 2: 1157
+Número de movimientos medio Evaluador 2: 11
+
+Tiempo TOTAL: 48360 ms
+
+------------------------------------------------------------------------------------
+
+PROFUNDIDAD 4
+
+Simulacion Evaluador personalizado SIN ajuste automático vs Evaluador aleatorio
+
+Resultados de la simulación:
+
+Victorias Evaluador 1: 483
+Victorias Evaluador 2: 389
+Empates: 128
+
+Tiempo medio Evaluador 1: 4434 ms
+Número medio de nodos expandidos Evaluador 1: 5245
+Número de movimientos medio Evaluador 1: 16
+
+Tiempo medio Evaluador 2: 5800 ms
+Número medio de nodos expandidos Evaluador 2: 8128
+Número de movimientos medio Evaluador 2: 16
+
+Simulacion Evaluador personalizado SIN ajuste automático vs Evaluador personalizado CON ajuste automático
+
+Resultados de la simulación:
+
+Victorias Evaluador 1: 494
+Victorias Evaluador 2: 506
+Empates: 0
+
+Tiempo medio Evaluador 1: 2586 ms
+Número medio de nodos expandidos Evaluador 1: 3356
+Número de movimientos medio Evaluador 1: 21
+
+Tiempo medio Evaluador 2: 6663 ms
+Número medio de nodos expandidos Evaluador 2: 8483
+Número de movimientos medio Evaluador 2: 21
+
+Simulacion Evaluador personalizado CON ajuste automático vs Evaluador aleatorio
+
+Resultados de la simulación:
+
+Victorias Evaluador 1: 485
+Victorias Evaluador 2: 407
+Empates: 108
+
+Tiempo medio Evaluador 1: 13766 ms
+Número medio de nodos expandidos Evaluador 1: 16220
+Número de movimientos medio Evaluador 1: 16
+
+Tiempo medio Evaluador 2: 5816 ms
+Número medio de nodos expandidos Evaluador 2: 8166
+Número de movimientos medio Evaluador 2: 16
+
+Tiempo TOTAL: 108472 ms
+
+------------------------------------------------------------------------------------
+
+PROFUNDIDAD 5
+
+Simulacion Evaluador personalizado SIN ajuste automático vs Evaluador aleatorio
+
+Resultados de la simulación:
+
+Victorias Evaluador 1: 404
+Victorias Evaluador 2: 550
+Empates: 46
+
+Tiempo medio Evaluador 1: 12729 ms
+Número medio de nodos expandidos Evaluador 1: 13120
+Número de movimientos medio Evaluador 1: 14
+
+Tiempo medio Evaluador 2: 25981 ms
+Número medio de nodos expandidos Evaluador 2: 33278
+Número de movimientos medio Evaluador 2: 15
+
+Simulacion Evaluador personalizado SIN ajuste automático vs Evaluador personalizado CON ajuste automático
+
+Resultados de la simulación:
+
+Victorias Evaluador 1: 521
+Victorias Evaluador 2: 479
+Empates: 0
+
+Tiempo medio Evaluador 1: 15329 ms
+Número medio de nodos expandidos Evaluador 1: 16446
+Número de movimientos medio Evaluador 1: 17
+
+Tiempo medio Evaluador 2: 44491 ms
+Número medio de nodos expandidos Evaluador 2: 58563
+Número de movimientos medio Evaluador 2: 17
+
+Simulacion Evaluador personalizado CON ajuste automático vs Evaluador aleatorio
+
+Resultados de la simulación:
+
+Victorias Evaluador 1: 408
+Victorias Evaluador 2: 542
+Empates: 50
+
+Tiempo medio Evaluador 1: 65536 ms
+Número medio de nodos expandidos Evaluador 1: 81938
+Número de movimientos medio Evaluador 1: 14
+
+Tiempo medio Evaluador 2: 23935 ms
+Número medio de nodos expandidos Evaluador 2: 32842
+Número de movimientos medio Evaluador 2: 14
+
+Tiempo TOTAL: 408778 ms
+
+------------------------------------------------------------------------------------
+
+PROFUNDIDAD 6
+
+Simulacion Evaluador personalizado SIN ajuste automático vs Evaluador aleatorio
+
+Resultados de la simulación:
+
+Victorias Evaluador 1: 378
+Victorias Evaluador 2: 535
+Empates: 87
+
+Tiempo medio Evaluador 1: 45372 ms
+Número medio de nodos expandidos Evaluador 1: 48363
+Número de movimientos medio Evaluador 1: 16
+
+Tiempo medio Evaluador 2: 125514 ms
+Número medio de nodos expandidos Evaluador 2: 170746
+Número de movimientos medio Evaluador 2: 16
+
+Simulacion Evaluador personalizado SIN ajuste automático vs Evaluador personalizado CON ajuste automático
+
+Resultados de la simulación:
+
+Victorias Evaluador 1: 503
+Victorias Evaluador 2: 497
+Empates: 0
+
+Tiempo medio Evaluador 1: 40699 ms
+Número medio de nodos expandidos Evaluador 1: 46860
+Número de movimientos medio Evaluador 1: 18
+
+Tiempo medio Evaluador 2: 299271 ms
+Número medio de nodos expandidos Evaluador 2: 399888
+Número de movimientos medio Evaluador 2: 18
+
+Simulacion Evaluador personalizado CON ajuste automático vs Evaluador aleatorio
+
+Resultados de la simulación:
+
+Victorias Evaluador 1: 387
+Victorias Evaluador 2: 513
+Empates: 100
+
+Tiempo medio Evaluador 1: 412125 ms
+Número medio de nodos expandidos Evaluador 1: 551669
+Número de movimientos medio Evaluador 1: 16
+
+Tiempo medio Evaluador 2: 116352 ms
+Número medio de nodos expandidos Evaluador 2: 166919
+Número de movimientos medio Evaluador 2: 16
+
+Tiempo TOTAL: 2028296 ms
+
+------------------------------------------------------------------------------------
+
+PROFUNDIDAD 7
+
+Resultados de la simulación:
+
+Victorias Evaluador 1: 212
+Victorias Evaluador 2: 749
+Empates: 39
+
+Tiempo medio Evaluador 1: 72696 ms
+Número medio de nodos expandidos Evaluador 1: 79925
+Número de movimientos medio Evaluador 1: 14
+
+Tiempo medio Evaluador 2: 441016 ms
+Número medio de nodos expandidos Evaluador 2: 602542
+Número de movimientos medio Evaluador 2: 14
+
+Simulacion Evaluador personalizado SIN ajuste automático vs Evaluador personalizado CON ajuste automático
+
+Resultados de la simulación:
+
+Victorias Evaluador 1: 483
+Victorias Evaluador 2: 517
+Empates: 0
+
+Tiempo medio Evaluador 1: 115785 ms
+Número medio de nodos expandidos Evaluador 1: 126922
+Número de movimientos medio Evaluador 1: 19
+
+Tiempo medio Evaluador 2: 1521480 ms
+Número medio de nodos expandidos Evaluador 2: 1977968
+Número de movimientos medio Evaluador 2: 19
+
+Simulacion Evaluador personalizado CON ajuste automático vs Evaluador aleatorio
+
+Resultados de la simulación:
+
+Victorias Evaluador 1: 185
+Victorias Evaluador 2: 770
+Empates: 45
+
+Tiempo medio Evaluador 1: 1347981 ms
+Número medio de nodos expandidos Evaluador 1: 1761976
+Número de movimientos medio Evaluador 1: 14
+
+Tiempo medio Evaluador 2: 446669 ms
+Número medio de nodos expandidos Evaluador 2: 631575
+Número de movimientos medio Evaluador 2: 14
+
+Tiempo TOTAL: 10050813 ms

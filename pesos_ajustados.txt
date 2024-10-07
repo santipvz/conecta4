@@ -1,0 +1,4 @@
+Ponderación Fichas Consecutivas: 0.45330825
+Ponderación Posibles Alineaciones: 0.2351138
+Ponderación Fichas Centrales: 0.7975683
+Ponderación Fichas Diagonales Ascendentes: 0.47842783
