@@ -1,1 +1,3 @@
-# conecta4
+Se busca desarrollar una estrategia para el CONECTA-4, entrenaremos un algoritmo para que compita por formar una secuencia de 4 fichas. Debemos crear funciones que evalúen posiciones para conseguir nuestro objetivo.
+
+Modelaremos el juego CONECTA-4 y aplicaremos el algoritmo MINIMAX con poda ALFA-BETA, además buscaremos una buena función de evaluación. Para ello implementaremos el algoritmo, definiremos distintos evaluadores y diseñaremos un método de ajuste de pesos para finalmente comparar el funcionamiento de la heurística que hemos optimizado y de la aleatoria. Para la realización de los tests, hemos hecho los enfrentamientos con 1000 partidas cada uno para 7 profundidades.
